@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+output/*.csv
+output/*.png
+output/*.svg
+output/*.RData
+output/*.zip
+output/*/
+.Rhistory
+code/.env
